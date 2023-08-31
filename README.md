@@ -1,3 +1,12 @@
+## HiBench for Spark with Dataproc (Google Cloud Platform, GCP)
+Some paths for hadoop or spark in GCP is different with default codes.
+
+We tested in below versions.
+Spark 2.4.7
+
+$SPARK_HOME = /usr/lib/spark
+$HADOOP_HOME = /usr/lib/hadoop
+---
 # HiBench Suite
 ## The bigdata micro benchmark suite ##
 
