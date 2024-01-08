@@ -5,7 +5,7 @@ $SPARK_HOME = /usr/lib/spark
 $HADOOP_HOME = /usr/lib/hadoop
 ```
 
-#### We tested the workloads in the versions listed below and confirmed that they are running.
+#### We tested the workloads in the versions listed below and confirmed that they are running successfully.
 It used [Dataproc](https://cloud.google.com/dataproc) in GCP, and we used the 2.0 version of the standard dataproc image.
 - Spark 3.1.3
 - Hadoop 3.2.3
