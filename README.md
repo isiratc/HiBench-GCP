@@ -1,8 +1,12 @@
 ## HiBench for Spark with Dataproc (Google Cloud Platform, GCP)
 Some paths for hadoop or spark in GCP is different with default codes.
 
-We tested in below versions.
-Spark 2.4.7
+**We tested the workloads in the versions listed below and confirmed that they are running.**
+- Spark 3.1.3
+- Hadoop 3.2.3
+- OpenJDK 1.8.0
+- Scala 2.12.14
+- Apache Maven 3.6.0
 
 ```
 $SPARK_HOME = /usr/lib/spark
