@@ -1,0 +1,10 @@
+Type         Date       Time     Input_data_size      Duration(s)          Throughput(bytes/s)  Throughput/node
+ScalaSparkWordcount 2024-03-16 07:12:41 37988                58.145               653                  653
+ScalaSparkWordcount 2024-03-16 07:19:58 37988                51.614               736                  736
+ScalaSparkWordcount 2024-03-16 07:23:56 37988                52.952               717                  717
+ScalaSparkWordcount 2024-03-16 07:30:39 37988                52.062               729                  729
+ScalaSparkWordcount 2024-03-16 07:36:02 37988                53.381               711                  711
+ScalaSparkWordcount 2024-03-16 07:43:54 37988                54.083               702                  702
+ScalaSparkWordcount 2024-03-16 07:46:27 37988                60.578               627                  627
+ScalaSparkWordcount 2024-03-16 13:58:32 3258300507           180.330              18068543             18068543
+ScalaSparkWordcount 2024-03-16 14:03:14 3258300507           169.809              19188031             19188031

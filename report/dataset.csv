@@ -1,0 +1,3 @@
+index,spark.executor.memory,spark.serializer,spark.executor.instances,spark.executor.cores,spark.default.parallelism,spark.sql.shuffle.partitions,spark.sql.autoBroadcastJoinThreshold,datasize,workload,total_required_memory,total_required_cpu,Type,Date,Time,Input_data_size,Duration(s),Throughput(bytes/s),Throughput/node
+19,4,org.apache.spark.serializer.JavaSerializer,2,2,20,80,160,huge,aggregation,8,4,ScalaSparkWordcount,2024-03-16,14:03:14,3258300507,169.809,19188031,19188031
+19,4,org.apache.spark.serializer.JavaSerializer,2,2,20,80,160,huge,aggregation,8,4,ScalaSparkWordcount,2024-03-16,14:03:14,3258300507,169.809,19188031,19188031
